@@ -1,0 +1,5 @@
+[workspace]
+members = ["lib1", "lib2"]
+
+[workspace.package]
+version = "0.1.0"
